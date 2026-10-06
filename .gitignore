@@ -1,0 +1,8 @@
+/.vs
+/packages
+/GFNSessionTimer/bin
+/GFNSessionTimer/obj
+/GFNSessionTimer/Release
+**/bin/Debug/
+**/bin/Release/
+**/obj/Debug/
